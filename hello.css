@@ -1,0 +1,47 @@
+html
+{
+    background-color: #405FA5;
+    color: ghostwhite;
+}
+
+p.Main
+{
+    background-color: #728FD2;
+    color: ghostwhite;
+
+    text-align: center;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 1000px;
+    height: 500px;
+}
+
+div.Banner
+{
+    background-color: #728FD2;
+   
+    font-size: xx-large;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 1000px;
+    height: 100px;
+
+   background-image: url("Banner.png");
+}
+
+div.Banner:p
+{
+    color: #FFA500;
+}
+
+.SideImg
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
